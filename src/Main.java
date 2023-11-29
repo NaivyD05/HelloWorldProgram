@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("wow");
 
+      System.out.println("lol");
+
     }
 }
